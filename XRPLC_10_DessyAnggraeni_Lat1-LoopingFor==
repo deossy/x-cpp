@@ -1,0 +1,20 @@
+#include <iostream>
+#include <cstdlib>
+using namespace std;
+
+int main()
+{
+	int i,N;
+	
+	cout<<"masukkan banyak N:"; cin>>N;
+	
+	for(i=1;i<=N;i++)
+	{
+		cout<<"SAYA BAHAGIA\n";
+	}
+	
+	cout<<"\nselesai\n";
+	
+	system ("pause");
+	return 0;
+}
